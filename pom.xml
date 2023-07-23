@@ -47,7 +47,7 @@
 	<distributionManagement>
     <snapshotRepository>
         <id>deployment</id>
-        <url>http://3.90.67.15:8081/repository/ksmani/</url>
+        <url>http://3.90.67.15:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     </distributionManagement>
 		
